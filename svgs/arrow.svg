@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="18px" viewBox="0 0 49 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1097.000000, -3023.000000)" fill="#1F4548">
+            <g id="Become-a-contributor" transform="translate(-3.000000, 2727.000000)">
+                <g id="Group-14" transform="translate(180.000000, 43.000000)">
+                    <g id="Button-area" transform="translate(920.000000, 199.000000)">
+                        <g id="Arrow" transform="translate(24.500000, 63.000000) scale(1, -1) translate(-24.500000, -63.000000) translate(0.000000, 54.000000)">
+                            <path d="M48.8671309,8.65513449 L40.3336465,0.155208159 C40.1270855,-0.0468906843 39.7740703,-0.048340676 39.5751893,0.131708293 C39.3730549,0.314657246 39.3582281,0.650505323 39.5501225,0.842754222 L47.2335757,8.49893538 L0.603875617,8.49893538 C0.309314087,8.49893538 0.0705395133,8.7227841 0.0705395133,8.99893252 C0.0705395133,9.27508094 0.309314087,9.49892966 0.603875617,9.49892966 L47.2335757,9.49892966 L39.5501225,17.1551358 C39.3580681,17.3473847 39.3699082,17.6861828 39.5751893,17.8661818 C39.7803103,18.0461807 40.1103921,18.0506307 40.3336465,17.8426819 L48.8671309,9.34273055 C49.0699586,9.10873189 49.016625,8.82193354 48.8671309,8.65513449 Z" id="arrow"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

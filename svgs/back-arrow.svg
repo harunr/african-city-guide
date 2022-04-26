@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="9px" viewBox="0 0 30 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>back-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nairobi-Tin-Roof" transform="translate(-123.000000, -1124.000000)" fill="#1F4548">
+            <polygon id="back-arrow" transform="translate(138.000000, 1128.500000) scale(-1, 1) translate(-138.000000, -1128.500000) " points="147.396486 1125.15691 149.90027 1127.68345 123 1127.68345 123 1129.31614 149.90027 1129.31614 147.396486 1131.8435 148.55027 1133 153 1128.5 148.55027 1124"></polygon>
+        </g>
+    </g>
+</svg>
